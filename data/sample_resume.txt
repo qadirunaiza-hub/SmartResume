@@ -1,0 +1,49 @@
+Arjun Sharma
+Software Engineer | arjun.sharma@email.com | +91-9876543210
+LinkedIn: linkedin.com/in/arjunsharma | GitHub: github.com/arjunsharma
+
+SUMMARY
+Software Engineer with 3 years of experience building backend APIs, data pipelines,
+and full-stack web applications. Proficient in Python and JavaScript ecosystems.
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, SQL, Bash
+Backend: FastAPI, Flask, Node.js, REST APIs, gRPC
+Frontend: React, HTML, CSS, Redux
+Databases: PostgreSQL, MongoDB, Redis, SQLite
+Cloud: AWS (EC2, S3, Lambda, RDS), IAM, CloudWatch
+DevOps: Docker, Jenkins, Git, GitHub
+ML/Data: Pandas, NumPy, Scikit-learn, Matplotlib
+Monitoring: Grafana, Prometheus
+
+WORK EXPERIENCE
+
+Software Engineer — Accenture, Bengaluru  (Jan 2022 – Present)
+- Built RESTful APIs with FastAPI serving 500K+ daily requests with <100ms p95 latency
+- Designed PostgreSQL schemas for a customer data platform; reduced query time by 35%
+- Containerised 8 microservices using Docker; maintained Jenkins CI/CD pipelines
+- Developed ETL scripts in Python (Pandas) to ingest and clean 2M records/day from S3
+- Collaborated with data scientists to expose Scikit-learn model endpoints via Flask
+
+Software Engineer Intern — TCS, Hyderabad  (Jun 2021 – Dec 2021)
+- Built a React dashboard for real-time monitoring of logistics data
+- Wrote Python automation scripts reducing manual reporting effort by 60%
+- Managed MongoDB collections and wrote aggregation pipelines for analytics
+
+EDUCATION
+B.Tech in Computer Science — IIT Delhi  (2018 – 2022)
+CGPA: 8.4/10
+
+PROJECTS
+
+Resume Keyword Matcher (Personal Project)
+- Python app using TF-IDF and cosine similarity to compare resumes against JDs
+- Stack: Python, Scikit-learn, Streamlit, spaCy
+
+E-Commerce REST API
+- RESTful backend with FastAPI, PostgreSQL, Redis caching; deployed on AWS EC2
+- Implemented JWT authentication and rate limiting
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2023)
+- Python for Data Science — Coursera (2021)

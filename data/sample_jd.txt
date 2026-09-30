@@ -1,0 +1,37 @@
+Job Title: Senior Data Engineer
+Company: FinTech Solutions Pvt. Ltd.
+Location: Bengaluru / Remote
+
+ABOUT THE ROLE
+We are looking for a Senior Data Engineer to design, build, and maintain large-scale
+data pipelines that power our analytics and ML platforms. You will work closely with
+data scientists, analysts, and business stakeholders.
+
+RESPONSIBILITIES
+- Design and implement batch and streaming data pipelines using Apache Spark and Kafka
+- Build and manage orchestration workflows with Apache Airflow
+- Develop data transformation layers using dbt on top of our Redshift data warehouse
+- Optimise AWS EMR clusters and Glue ETL jobs for performance and cost
+- Implement data quality checks using Great Expectations
+- Collaborate with ML teams to productionise models at scale
+- Mentor junior engineers on data engineering best practices
+
+REQUIRED SKILLS & QUALIFICATIONS
+- 4+ years of professional experience in data engineering
+- Strong proficiency in Python and SQL
+- Hands-on experience with Apache Spark (PySpark preferred)
+- Experience with streaming platforms: Apache Kafka or Kinesis
+- Workflow orchestration: Apache Airflow or Prefect
+- Data transformation: dbt (data build tool)
+- Cloud: AWS (EMR, Glue, Redshift, Athena, S3)
+- Container orchestration: Kubernetes
+- Version control: Git
+
+NICE TO HAVE
+- Scala for Spark jobs
+- Experience with Delta Lake or Apache Iceberg
+- Familiarity with Terraform for infrastructure as code
+- Knowledge of MLOps pipelines (MLflow, Kubeflow)
+
+EDUCATION
+Bachelor's or Master's degree in Computer Science, Engineering, or related field
